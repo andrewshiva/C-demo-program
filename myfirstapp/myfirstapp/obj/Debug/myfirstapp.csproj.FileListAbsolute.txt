@@ -1,0 +1,7 @@
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe.config
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\bin\Debug\myfirstapp.exe
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\bin\Debug\myfirstapp.pdb
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\obj\Debug\myfirstapp.csprojAssemblyReference.cache
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\obj\Debug\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\obj\Debug\myfirstapp.exe
+C:\Users\shivasingh\Downloads\myfirstapp\myfirstapp\myfirstapp\obj\Debug\myfirstapp.pdb
